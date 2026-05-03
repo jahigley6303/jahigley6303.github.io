@@ -5,7 +5,7 @@ Jamie Pascual Portfolio
 
 Hi! I'm Jamie Pascual, an IT professional focused on IT support, systems administration, and troubleshooting.  
 This portfolio contains hands-on projects demonstrating real-world technical skills.
-___<br>
+
 ## Skills & Tools
 - Windows Administration (Active Directory, Group Policy)<br>
 - Networking (DNS, DHCP, TCP/IP)<br>
@@ -15,7 +15,7 @@ ___<br>
 - HTML, CSS, JavaScript- Beginner<br>
 - PowerShell automation<br>
 - Git & GitHub<br><br>
-___<br>
+
 ## Certifications & Education
 • Bachelor’s Degree in Information Technology <br>
 • CompTIA Security+ ce Certification <br>
@@ -28,13 +28,10 @@ ___<br>
 •	CompTIA A+ Certification<br>
 •	CompTIA Network+ Certification <br>
 
-___<br>
 ### 🔹 Web Development Projects
 - **[CIT 230 Assignment Portal(https://jahigley6303.github.io/moonshay76.github.io/)**  
   These are assignments completed for my Web Development course, covering various projects using HTML, CSS, and JavaScript, with a final project focused on building a complete webpage.<br>
 
-
-___<br>
 ## Resume & Contact
 📄 Resume: [Jamie_Pascual_Resume.docx](https://github.com/user-attachments/files/27319735/Jamie_Pascual_Resume.docx)<br>
 💼 LinkedIn: https://www.linkedin.com/in/jamiepascual/<br>
