@@ -18,10 +18,10 @@ This portfolio showcases hands-on projects that demonstrate my technical skills,
 - IT Service Management: ServiceNow, ITIL workflows<br><br>
 
 ## Certifications & Education
-### 🔹 Education
+### Education
 - Bachelor’s Degree in Information Technology <br><br>
 
-### 🔹 Certifications
+### Certifications
 - CompTIA Security+ ce Certification <br>
 - ITIL Certification <br>
 - Project+ <br>
