@@ -32,8 +32,9 @@ This portfolio contains hands-on projects demonstrating real-world technical ski
 - **[CIT 230 Assignment Portal(https://jahigley6303.github.io/moonshay76.github.io/)**
 - **[CIT 230 Assignment Portal Code page(https://github.com/jahigley6303/moonshay76.github.io)**
   These are assignments completed for my Web Development course, covering various projects using HTML, CSS, and JavaScript, with a final project focused on building a complete webpage.<br>
-##Coding Projects
--**Rock Paper Scissors(https://github.com/jahigley6303/RockPaperScissors)**
+
+### 🔹 Coding Projects
+-**[Rock Paper Scissors(https://github.com/jahigley6303/RockPaperScissors)**
 
 ## Resume & Contact
 📄 Resume: [Jamie_Pascual_Resume.docx](https://github.com/user-attachments/files/27319735/Jamie_Pascual_Resume.docx)<br>
