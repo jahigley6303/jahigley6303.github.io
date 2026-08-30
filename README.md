@@ -17,8 +17,8 @@ This portfolio showcases hands-on projects that demonstrate my technical skills,
 - Development Tools: Git, GitHub, GitLab, IntelliJ IDEA, VS Code<br>
 - IT Service Management: ServiceNow, ITIL workflows<br><br>
 
-### 🔹 Certifications & Education
-# Education
+## Certifications & Education
+### 🔹 Education
 - Bachelor’s Degree in Information Technology <br><br>
 
 ### 🔹 Certifications
