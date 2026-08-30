@@ -38,8 +38,8 @@ This portfolio showcases hands-on projects that demonstrate my technical skills,
   These are assignments completed for my Web Development course, covering various projects using HTML, CSS, and JavaScript, with a final project focused on building a complete webpage.<br><br>
 
 ### 🔹 Coding Projects
-- **Rock Paper Scissors(https://github.com/jahigley6303/RockPaperScissors)**
-This project represents part of my continued development of Python programming skills and software development fundamentals.<br><br>
+- **Rock Paper Scissors(https://github.com/jahigley6303/RockPaperScissors)**<br>
+  This project represents part of my continued development of Python programming skills and software development fundamentals.<br><br>
 
 ## More Projects Coming Soon
 
