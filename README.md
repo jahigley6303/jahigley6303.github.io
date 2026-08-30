@@ -33,12 +33,12 @@ This portfolio showcases hands-on projects that demonstrate my technical skills,
 - CompTIA Network+ Certification <br><br>
 
 ### 🔹 Web Development Projects
-- **CIT 230 Assignment Portal(https://jahigley6303.github.io/moonshay76.github.io/)**
-- **CIT 230 Assignment Portal Code page(https://github.com/jahigley6303/moonshay76.github.io)**
+- **CIT 230 Assignment Portal (https://jahigley6303.github.io/moonshay76.github.io/)**
+- **CIT 230 Assignment Portal Code page (https://github.com/jahigley6303/moonshay76.github.io)** <br>
   These are assignments completed for my Web Development course, covering various projects using HTML, CSS, and JavaScript, with a final project focused on building a complete webpage.<br><br>
 
 ### 🔹 Coding Projects
-- **Rock Paper Scissors(https://github.com/jahigley6303/RockPaperScissors)**<br>
+- **Rock Paper Scissors (https://github.com/jahigley6303/RockPaperScissors)**<br>
   This project represents part of my continued development of Python programming skills and software development fundamentals.<br><br>
 
 ## More Projects Coming Soon
