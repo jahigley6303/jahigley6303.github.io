@@ -41,6 +41,19 @@ This portfolio showcases hands-on projects that demonstrate my technical skills,
 - **Rock Paper Scissors(https://github.com/jahigley6303/RockPaperScissors)**
 This project represents part of my continued development of Python programming skills and software development fundamentals.<br><br>
 
+## More Projects Coming Soon
+
+This portfolio is actively being expanded as I continue developing projects in:
+
+- Python
+- Software Engineering
+- Data Structures & Algorithms
+- Automation
+- Web Development
+- Cloud Technologies
+- Data Analytics
+- Artificial Intelligence
+
 ## Resume & Contact
 📄 Resume: [Jamie_Pascual_Resume.docx](https://github.com/user-attachments/files/27319735/Jamie_Pascual_Resume.docx)<br>
 💼 LinkedIn: https://www.linkedin.com/in/jamiepascual/<br>
