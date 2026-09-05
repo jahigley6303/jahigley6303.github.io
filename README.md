@@ -39,7 +39,9 @@ This portfolio showcases hands-on projects that demonstrate my technical skills,
 
 ### 🔹 Coding Projects
 - **Rock Paper Scissors (https://github.com/jahigley6303/RockPaperScissors)**<br>
-  This project represents part of my continued development of Python programming skills and software development fundamentals.<br><br>
+- **Scientific Calculator (https://github.com/jahigley6303/ScientificCalculator))**<br>
+
+  These projects represents part of my continued development of Python programming skills and software development fundamentals.<br><br>
 
 ## More Projects Coming Soon
 
