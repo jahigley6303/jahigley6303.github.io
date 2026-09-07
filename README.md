@@ -1,7 +1,7 @@
 # jahigley6303.github.io
 Jamie Pascual Portfolio
 
-# Jamie Pascual | IT / Systems & & Software Engineering Portfolio
+# Jamie Pascual | IT / Systems & Software Engineering Portfolio
 
 Hi! I'm Jamie Pascual, an IT professional focused on IT support, systems administration, and troubleshooting and software development.  
 This portfolio showcases hands-on projects that demonstrate my technical skills, problem-solving abilities, and continued growth in software engineering and emerging technologies.
@@ -43,7 +43,7 @@ This portfolio showcases hands-on projects that demonstrate my technical skills,
 - **IT Support Ticket System (https://github.com/jahigley6303/ITSupportTicketSystem)**<br>
 
 
-  These projects represents part of my continued development of Python programming skills and software development fundamentals.<br><br>
+  These projects represent part of my continued development of Python programming skills and software development fundamentals.<br><br>
 
 ## More Projects Coming Soon
 
