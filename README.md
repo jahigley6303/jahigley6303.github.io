@@ -39,7 +39,7 @@ This portfolio showcases hands-on projects that demonstrate my technical skills,
 
 ### 🔹 Coding Projects
 - **Rock Paper Scissors (https://github.com/jahigley6303/RockPaperScissors)**<br>
-- **Scientific Calculator (https://github.com/jahigley6303/ScientificCalculator))**<br>
+- **Scientific Calculator (https://github.com/jahigley6303/ScientificCalculator)**<br>
 - **IT Support Ticket System (https://github.com/jahigley6303/ITSupportTicketSystem)**<br>
 
 
