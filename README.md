@@ -33,20 +33,20 @@ This portfolio showcases hands-on projects that demonstrate my technical skills,
 - CompTIA Network+ Certification <br><br>
 
 ### 🔹 Web Development Projects
-- **CIT 230 Assignment Portal (https://jahigley6303.github.io/moonshay76.github.io/)**
-- **CIT 230 Assignment Portal Code page (https://github.com/jahigley6303/moonshay76.github.io)** <br>
-- **CIT 261 Assignment Portal (https://jahigley6303.github.io/SolarSystem.github.io/)** <br>
-- **CIT 261 Assignment Portal Code page (https://github.com/jahigley6303/SolarSystem.github.io)** <br>
+- **[CIT 230 Assignment Portal](https://jahigley6303.github.io/moonshay76.github.io/)**
+- **[CIT 230 Assignment Portal]Code page (https://github.com/jahigley6303/moonshay76.github.io)** <br>
+- **[CIT 261 Assignment Portal](https://jahigley6303.github.io/SolarSystem.github.io/)** <br>
+- **[CIT 261 Assignment Portal Code page](https://github.com/jahigley6303/SolarSystem.github.io)** <br>
   These are assignments completed for my Web Development course, covering various projects using HTML, CSS, and JavaScript, with a final project focused on building a complete webpage.<br><br>
 
 ### 🔹 Coding Projects
-- **Rock Paper Scissors [Rock Paper Scissors](https://github.com/jahigley6303/RockPaperScissors)**<br>
+- **[Rock Paper Scissors](https://github.com/jahigley6303/RockPaperScissors)**<br>
   - A Python arcade-style Rock Paper Scissors game with score tracking, player input, and replay functionality. Demonstrates Python fundamentals, conditional logic, loops, and basic user interaction.<br><br>
-- **Scientific Calculator [Scientific Calculator](https://github.com/jahigley6303/ScientificCalculator)**<br>
+- **[Scientific Calculator](https://github.com/jahigley6303/ScientificCalculator)**<br>
   - A Python Tkinter desktop calculator with Basic, Scientific, and Modern calculator tabs, theme switching, memory functions, keyboard support, and degree/radian scientific calculations. Demonstrates GUI development, event handling, functions, classes, and Python’s math module.<br><br>
-- **IT Support Ticket System [IT Support Ticket System](https://github.com/jahigley6303/ITSupportTicketSystem)**<br>
+- **[IT Support Ticket System](https://github.com/jahigley6303/ITSupportTicketSystem)**<br>
   - A Python command-line support ticket system for creating, viewing, searching, updating, and closing IT support tickets. Demonstrates dictionaries, functions, input validation, ticket workflows, and basic IT support processes.<br><br>
-- **IT Asset Management System [IT Asset Management System](https://github.com/jahigley6303/ITAssetManagementSystem)**<br>
+- **[IT Asset Management System](https://github.com/jahigley6303/ITAssetManagementSystem)**<br>
   - A Python command-line asset inventory system for tracking equipment, assignments, statuses, warranty dates, and asset statistics. Demonstrates persistent JSON storage, search functionality, input validation, and IT inventory management.<br><br>
 ** These projects represent part of my continued development of Python programming skills and software development fundamentals.<br><br>
 
