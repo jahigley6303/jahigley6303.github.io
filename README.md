@@ -39,7 +39,7 @@ These are assignments completed for my Web Development course, covering various 
 - **[CIT 261 Assignment Portal Code Page](https://github.com/jahigley6303/SolarSystem.github.io)** <br>
   <br>
 
-### 🔹 Coding Projects
+### 🔹 Python Coding Projects
 These projects below represent part of my continued development of Python programming skills and software development fundamentals.<br>
 - **[Rock Paper Scissors](https://github.com/jahigley6303/RockPaperScissors)**<br>
   - A Python arcade-style Rock Paper Scissors game with score tracking, player input, and replay functionality. Demonstrates Python fundamentals, conditional logic, loops, and basic user interaction.<br>
@@ -49,6 +49,11 @@ These projects below represent part of my continued development of Python progra
   - A Python command-line support ticket system for creating, viewing, searching, updating, and closing IT support tickets. Demonstrates dictionaries, functions, input validation, ticket workflows, and basic IT support processes.<br>
 - **[IT Asset Management System](https://github.com/jahigley6303/ITAssetManagementSystem)**<br>
   - A Python command-line asset inventory system for tracking equipment, assignments, statuses, warranty dates, and asset statistics. Demonstrates persistent JSON storage, search functionality, input validation, and IT inventory management.<br>
+
+### 🔹 HTML, CSS, and JavaScript Coding Projects
+These projects below represent part of my continued development of HTML, CSS, and JavaScript programming skills and software development fundamentals.<br>
+- **[IT Knowledge Base Code](https://github.com/jahigley6303/ITKnowledgeBaseWebsite)  [IT Knowledge Base Website](https://jahigley6303.github.io/ITKnowledgeBaseWebsite/)**<br>
+ - A searchable IT support knowledge base built with HTML, CSS, and JavaScript. Includes category filters, quick issue searches, troubleshooting steps, priority labels, and escalation notes for common help desk issues.<br>
 
 ## More Projects Coming Soon
 
