@@ -1,4 +1,4 @@
-# jahigley6303.github.io
+# [jahigley6303.github.io](https://github.com/jahigley6303)
 Jamie Pascual Portfolio
 
 # Jamie Pascual | IT / Systems & Software Engineering Portfolio
