@@ -43,13 +43,13 @@ These are assignments completed for my Web Development course, covering various 
 ### 🔹 Coding Projects
 These projects below represent part of my continued development of Python programming skills and software development fundamentals.<br>
 - **[Rock Paper Scissors](https://github.com/jahigley6303/RockPaperScissors)**<br>
-  - A Python arcade-style Rock Paper Scissors game with score tracking, player input, and replay functionality. Demonstrates Python fundamentals, conditional logic, loops, and basic user interaction.<br><br>
+  - A Python arcade-style Rock Paper Scissors game with score tracking, player input, and replay functionality. Demonstrates Python fundamentals, conditional logic, loops, and basic user interaction.<br>
 - **[Scientific Calculator](https://github.com/jahigley6303/ScientificCalculator)**<br>
-  - A Python Tkinter desktop calculator with Basic, Scientific, and Modern calculator tabs, theme switching, memory functions, keyboard support, and degree/radian scientific calculations. Demonstrates GUI development, event handling, functions, classes, and Python’s math module.<br><br>
+  - A Python Tkinter desktop calculator with Basic, Scientific, and Modern calculator tabs, theme switching, memory functions, keyboard support, and degree/radian scientific calculations. Demonstrates GUI development, event handling, functions, classes, and Python’s math module.<br>
 - **[IT Support Ticket System](https://github.com/jahigley6303/ITSupportTicketSystem)**<br>
-  - A Python command-line support ticket system for creating, viewing, searching, updating, and closing IT support tickets. Demonstrates dictionaries, functions, input validation, ticket workflows, and basic IT support processes.<br><br>
+  - A Python command-line support ticket system for creating, viewing, searching, updating, and closing IT support tickets. Demonstrates dictionaries, functions, input validation, ticket workflows, and basic IT support processes.<br>
 - **[IT Asset Management System](https://github.com/jahigley6303/ITAssetManagementSystem)**<br>
-  - A Python command-line asset inventory system for tracking equipment, assignments, statuses, warranty dates, and asset statistics. Demonstrates persistent JSON storage, search functionality, input validation, and IT inventory management.<br><br>
+  - A Python command-line asset inventory system for tracking equipment, assignments, statuses, warranty dates, and asset statistics. Demonstrates persistent JSON storage, search functionality, input validation, and IT inventory management.<br>
 
 ## More Projects Coming Soon
 
