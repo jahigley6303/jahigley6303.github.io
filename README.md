@@ -36,6 +36,7 @@ This portfolio showcases hands-on projects that demonstrate my technical skills,
 - **CIT 230 Assignment Portal (https://jahigley6303.github.io/moonshay76.github.io/)**
 - **CIT 230 Assignment Portal Code page (https://github.com/jahigley6303/moonshay76.github.io)** <br>
 - **CIT 261 Assignment Portal (https://jahigley6303.github.io/SolarSystem.github.io/)** <br>
+- **CIT 261 Assignment Portal Code page (https://github.com/jahigley6303/SolarSystem.github.io**
   These are assignments completed for my Web Development course, covering various projects using HTML, CSS, and JavaScript, with a final project focused on building a complete webpage.<br><br>
 
 ### 🔹 Coding Projects
