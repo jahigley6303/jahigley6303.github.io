@@ -48,7 +48,7 @@ This portfolio showcases hands-on projects that demonstrate my technical skills,
   - A Python command-line support ticket system for creating, viewing, searching, updating, and closing IT support tickets. Demonstrates dictionaries, functions, input validation, ticket workflows, and basic IT support processes.*<br><br>
 - **IT Asset Management System (https://github.com/jahigley6303/ITAssetManagementSystem)**<br>
   - *A Python command-line asset inventory system for tracking equipment, assignments, statuses, warranty dates, and asset statistics. Demonstrates persistent JSON storage, search functionality, input validation, and IT inventory management.*<br><br>
-  These projects represent part of my continued development of Python programming skills and software development fundamentals.<br><br>
+These projects represent part of my continued development of Python programming skills and software development fundamentals.<br><br>
 
 ## More Projects Coming Soon
 
