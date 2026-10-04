@@ -40,7 +40,7 @@ These are assignments completed for my Web Development course, covering various 
   <br>
 
 ### 🔹 Python Coding Projects
-These projects below represent part of my continued development of Python programming skills and software development fundamentals.<br>
+These projects demonstrate my ongoing development of Python programming skills, application functionality, and software engineering fundamentals<br>
 - **[Rock Paper Scissors](https://github.com/jahigley6303/RockPaperScissors)**<br>
   - A Python arcade-style Rock Paper Scissors game with score tracking, player input, and replay functionality. Demonstrates Python fundamentals, conditional logic, loops, and basic user interaction.<br>
 - **[Scientific Calculator](https://github.com/jahigley6303/ScientificCalculator)**<br>
@@ -51,7 +51,7 @@ These projects below represent part of my continued development of Python progra
   - A Python command-line asset inventory system for tracking equipment, assignments, statuses, warranty dates, and asset statistics. Demonstrates persistent JSON storage, search functionality, input validation, and IT inventory management.<br><br>
 
 ### 🔹 HTML, CSS, and JavaScript Coding Projects
-These projects below represent part of my continued development of HTML, CSS, and JavaScript programming skills and software development fundamentals.<br>
+These projects demonstrate my ongoing development of HTML, CSS and JavaScript skills, application functionality, and software engineering fundamentals.<br>
 - **[IT Knowledge Base Code](https://github.com/jahigley6303/ITKnowledgeBaseWebsite),   Website display: [IT Knowledge Base Website](https://jahigley6303.github.io/ITKnowledgeBaseWebsite/)**<br>
   - A searchable IT support knowledge base built with HTML, CSS, and JavaScript. Includes category filters, quick issue searches, troubleshooting steps, priority labels, and escalation notes for common help desk issues.<br>
 
