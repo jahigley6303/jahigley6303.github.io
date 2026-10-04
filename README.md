@@ -48,7 +48,7 @@ These projects below represent part of my continued development of Python progra
 - **[IT Support Ticket System](https://github.com/jahigley6303/ITSupportTicketSystem)**<br>
   - A Python command-line support ticket system for creating, viewing, searching, updating, and closing IT support tickets. Demonstrates dictionaries, functions, input validation, ticket workflows, and basic IT support processes.<br>
 - **[IT Asset Management System](https://github.com/jahigley6303/ITAssetManagementSystem)**<br>
-  - A Python command-line asset inventory system for tracking equipment, assignments, statuses, warranty dates, and asset statistics. Demonstrates persistent JSON storage, search functionality, input validation, and IT inventory management.<br>
+  - A Python command-line asset inventory system for tracking equipment, assignments, statuses, warranty dates, and asset statistics. Demonstrates persistent JSON storage, search functionality, input validation, and IT inventory management.<br><br>
 
 ### 🔹 HTML, CSS, and JavaScript Coding Projects
 These projects below represent part of my continued development of HTML, CSS, and JavaScript programming skills and software development fundamentals.<br>
