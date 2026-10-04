@@ -52,7 +52,7 @@ These projects below represent part of my continued development of Python progra
 
 ### 🔹 HTML, CSS, and JavaScript Coding Projects
 These projects below represent part of my continued development of HTML, CSS, and JavaScript programming skills and software development fundamentals.<br>
-- **[IT Knowledge Base Code](https://github.com/jahigley6303/ITKnowledgeBaseWebsite)  [IT Knowledge Base Website](https://jahigley6303.github.io/ITKnowledgeBaseWebsite/)**<br>
+- **[IT Knowledge Base Code](https://github.com/jahigley6303/ITKnowledgeBaseWebsite),   Website display: [IT Knowledge Base Website](https://jahigley6303.github.io/ITKnowledgeBaseWebsite/)**<br>
   - A searchable IT support knowledge base built with HTML, CSS, and JavaScript. Includes category filters, quick issue searches, troubleshooting steps, priority labels, and escalation notes for common help desk issues.<br>
 
 ## More Projects Coming Soon
