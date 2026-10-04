@@ -1,5 +1,6 @@
-# [jahigley6303.github.io](https://github.com/jahigley6303)
+
 # Jamie Pascual Portfolio
+ [jahigley6303.github.io](https://github.com/jahigley6303)
 
 ## Software Engineer | Python | AI & Software Development 
 
