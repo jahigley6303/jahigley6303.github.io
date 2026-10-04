@@ -1,5 +1,5 @@
 # [jahigley6303.github.io](https://github.com/jahigley6303)
-#Jamie Pascual Portfolio
+# Jamie Pascual Portfolio
 
 # Jamie Pascual | Software Engineer | Python | AI & Software Development 
 
