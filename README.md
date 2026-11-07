@@ -20,7 +20,8 @@ This portfolio showcases hands-on projects that demonstrate my technical skills,
 
 ## Certifications & Education
 ### Education
-- Bachelor’s Degree in Information Technology <br><br>
+- Bachelor of Science in Information Technology <br><br>
+- Master of Science in Software Engineering - AI Engineering <br><br>
 
 ### Certifications
 - CompTIA Security+ ce Certification <br>
